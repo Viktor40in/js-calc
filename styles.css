@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  padding: 15px;
+  text-align: center;
+}
+.container {
+  width: 100%;
+  height: 100vh;
+}
+
+.calculator {
+  width: 450px;
+  height: 550px;
+  margin: auto;
+  background-color: #52747d;
+  border-radius: 10px;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.calc-window {
+  width: 90%;
+  height: 150px;
+  border: 2px solid black;
+  margin: 25px auto 0;
+}
+
+.buttons {
+  width: 90%;
+  height: 310px;
+  border: 2px solid black;
+  margin: 25px auto 0;
+}
